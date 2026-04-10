@@ -1,15 +1,296 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-  xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>רגע, מה?</title>
-    <link>https://hamal4kids.co.il</link>
-    <language>he</language>
-    <description>פודקאסט חינוכי לילדים סקרנים</description>
-    <atom:link href="https://hamal4kids.github.io/hamal4kids-podcast-rss/feed-he.xml" rel="self" type="application/rss+xml"/>
-    <itunes:author>חמ"ל לילדים</itunes:author>
-    <itunes:explicit>false</itunes:explicit>
-    <!-- Episodes will be added here by n8n automation -->
-  </channel>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
+	<channel>
+		<title><![CDATA[?רגע, מה]]></title>
+		<description><![CDATA["רגע, מה?" הוא פודקאסט לילדים סקרנים שרוצים לגלות איך העולם באמת עובד.
+בכל פרק נצלול לעולם מרתק, נגלה עובדות מפתיעות, נספר סיפורים מצחיקים – ונפתח את הראש לעוד רעיונות חדשים.
+
+הפודקאסט הוא חלק מחמ"ל לילדים – מיזם קהילתי שמביא אור, הקשבה ותוכן איכותי לילדים בישראל, כל השנה.
+✨ כל האזנה היא רגע של סקרנות, חיוך... וגם תמיכה בעשייה שלנו.
+
+🎧 לחצו פליי ובואו איתנו למסע של חכמה, צחוק ודמיון.
+❤ רוצים לעזור לנו להמשיך? קנו לנו קפה באתר
+hamal4kids.online
+שימו לב: הפודקאסט מופק בעזרת כלי בינה מלאכותית, ועל כן ייתכנו טעויות בהגיית מילים.
+אנחנו ממליצים להאזין יחד עם הילדים ולתווך הגייה נכונה במקרה הצורך]]></description>
+		<link>https://www.hamal4kids.online/</link>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Fri, 10 Apr 2026 15:58:08 GMT</lastBuildDate>
+		<atom:link href="https://hamal4kids.github.io/hamal4kids-podcast-rss/feed-he.xml" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[חמ"ל לילדים]]></author>
+		<copyright><![CDATA[חמ"ל לילדים]]></copyright>
+		<language><![CDATA[he]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>חמ&quot;ל לילדים</itunes:author>
+		<itunes:summary>&quot;רגע, מה?&quot; הוא פודקאסט לילדים סקרנים שרוצים לגלות איך העולם באמת עובד.
+בכל פרק נצלול לעולם מרתק, נגלה עובדות מפתיעות, נספר סיפורים מצחיקים – ונפתח את הראש לעוד רעיונות חדשים.
+
+הפודקאסט הוא חלק מחמ&quot;ל לילדים – מיזם קהילתי שמביא אור, הקשבה ותוכן איכותי לילדים בישראל, כל השנה.
+✨ כל האזנה היא רגע של סקרנות, חיוך... וגם תמיכה בעשייה שלנו.
+
+🎧 לחצו פליי ובואו איתנו למסע של חכמה, צחוק ודמיון.
+❤ רוצים לעזור לנו להמשיך? קנו לנו קפה באתר
+hamal4kids.online
+שימו לב: הפודקאסט מופק בעזרת כלי בינה מלאכותית, ועל כן ייתכנו טעויות בהגיית מילים.
+אנחנו ממליצים להאזין יחד עם הילדים ולתווך הגייה נכונה במקרה הצורך</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>חמ&quot;ל לילדים</itunes:name>
+			<itunes:email>hamal4kids@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:category text="Kids &amp; Family">
+			<itunes:category text="Education for Kids"/>
+		</itunes:category>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/43592801/43592801-1746913024998-3a635f02b5881.jpg"/>
+		<item>
+			<title><![CDATA[ליקוי ירח מלא, 7.9.25]]></title>
+			<description><![CDATA[<p>ליקוי ירח מלא - על מה ולמה זה קורה, איך ומתי לראות, למה בצבע האדום - ומה חשבו על זה פעם, לפני שידעו את המדע מאחורי התופעה הנדירה, יחסית.</p><p>והכי בשפה פשוטה לילדים.</p><p>--+---+---+--</p><p>🎭 *חמ"ל פעילויות לילדים* - פעילויות אונליין ותוכן מגוון ומהנה לילדים</p><p>🐥 הצטרפו לקהילה</p><p>https://linktr.ee/hamal4kids</p><p>👕 רוצים ללבוש אפרוח?</p><p>https://www.hamal4kids.online/chickchic-store</p><p>☕ אהבתם? קנו לנו קפה🙏</p><p>https://payboxapp.page.link/KzAVcfYv9A3RQs8w5</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hamal4kids/episodes/7-9-25-e37t8it</link>
+			<guid isPermaLink="false">59da2b44-a78f-4510-8be6-e5b4d5cbe281</guid>
+			<dc:creator><![CDATA[חמ"ל לילדים]]></dc:creator>
+			<pubDate>Sun, 07 Sep 2025 11:51:17 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1046dec64/podcast/play/107962397/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-7%2F2031e756-d3ca-17ca-da05-a193f9b868d4.mp3" length="27334530" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;ליקוי ירח מלא - על מה ולמה זה קורה, איך ומתי לראות, למה בצבע האדום - ומה חשבו על זה פעם, לפני שידעו את המדע מאחורי התופעה הנדירה, יחסית.&lt;/p&gt;&lt;p&gt;והכי בשפה פשוטה לילדים.&lt;/p&gt;&lt;p&gt;--+---+---+--&lt;/p&gt;&lt;p&gt;🎭 *חמ&quot;ל פעילויות לילדים* - פעילויות אונליין ותוכן מגוון ומהנה לילדים&lt;/p&gt;&lt;p&gt;🐥 הצטרפו לקהילה&lt;/p&gt;&lt;p&gt;https://linktr.ee/hamal4kids&lt;/p&gt;&lt;p&gt;👕 רוצים ללבוש אפרוח?&lt;/p&gt;&lt;p&gt;https://www.hamal4kids.online/chickchic-store&lt;/p&gt;&lt;p&gt;☕ אהבתם? קנו לנו קפה🙏&lt;/p&gt;&lt;p&gt;https://payboxapp.page.link/KzAVcfYv9A3RQs8w5&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:28:28</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/43592801/43592801-1746913024998-3a635f02b5881.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[מסע אל המיתולוגיות: הרפתקה בעולמות הדמיון העתיק]]></title>
+			<description><![CDATA[<p>מי המציא את המדוזה? למה יש לדרקונים כנפיים? ואיך זה שמיתוסים מכל העולם מספרים סיפורים דומים?</p><p>בפרק הראשון של &quot;חכו רגע!&quot; יוצאים יחד למסע על גלי הדמיון והזמן — לפגוש אלים, מפלצות, וילדים חכמים במיוחד!</p><p>הפודקאסט הוא חלק מפרויקט <strong>“חמ״ל לילדים”</strong> — מיזם קהילתי חינמי שמביא תכנים סקרניים בעברית לילדים.</p><p><a href="https://www.hamal4kids.online/post/מסע-אל-המיתולוגיות-הרפתקה-בעולמות-הדמיון-העתיק" target="_blank" rel="noopener noreferer">האזינו לפרק המלא כאן</a></p><p><br><a href="https://payboxapp.page.link/KzAVcfYv9A3RQs8w5" target="_new" rel="noopener">☕ קנו לנו קפה</a></p><p>💡 הפודקאסט נוצר בעזרת בינה מלאכותית, וייתכנו בו שיבושי הגייה — ממליצים להאזין יחד עם הילדים</p><p></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hamal4kids/episodes/ep-e361s40</link>
+			<guid isPermaLink="false">deda484f-54f5-467c-b4fc-f3b192305382</guid>
+			<dc:creator><![CDATA[חמ"ל לילדים]]></dc:creator>
+			<pubDate>Sat, 26 Jul 2025 11:21:27 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1046dec64/podcast/play/106016320/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-26%2F404574040-44100-2-f000cc86f932f.m4a" length="7934828" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;מי המציא את המדוזה? למה יש לדרקונים כנפיים? ואיך זה שמיתוסים מכל העולם מספרים סיפורים דומים?&lt;/p&gt;&lt;p&gt;בפרק הראשון של &amp;quot;חכו רגע!&amp;quot; יוצאים יחד למסע על גלי הדמיון והזמן — לפגוש אלים, מפלצות, וילדים חכמים במיוחד!&lt;/p&gt;&lt;p&gt;הפודקאסט הוא חלק מפרויקט &lt;strong&gt;“חמ״ל לילדים”&lt;/strong&gt; — מיזם קהילתי חינמי שמביא תכנים סקרניים בעברית לילדים.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.hamal4kids.online/post/מסע-אל-המיתולוגיות-הרפתקה-בעולמות-הדמיון-העתיק&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;האזינו לפרק המלא כאן&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;a href=&quot;https://payboxapp.page.link/KzAVcfYv9A3RQs8w5&quot; target=&quot;_new&quot; rel=&quot;noopener&quot;&gt;☕ קנו לנו קפה&lt;/a&gt;&lt;/p&gt;&lt;p&gt;💡 הפודקאסט נוצר בעזרת בינה מלאכותית, וייתכנו בו שיבושי הגייה — ממליצים להאזין יחד עם הילדים&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:08:10</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43592801/43592801-1753529077878-56cc199aeaef2.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[מסע מתוק אל עולם השוקולד]]></title>
+			<description><![CDATA[<p>שוקולד לא תמיד היה מתוק.<br>פעם שתו אותו. בלי חלב, בלי סוכר, עם פלפל חריף.<br>אז איך הוא הפך למה שאנחנו מכירים היום?<br>בפרק הזה נעקוב אחרי הסיפור של השוקולד — מהג&#39;ונגלים של מרכז אמריקה עד לקיוסק.</p><p>הפודקאסט הוא חלק מ&quot;חמ״ל לילדים&quot; – פרויקט קהילתי חינמי.<br><a href="https://www.hamal4kids.online/post/מסע-מתוק-אל-עולם-השוקולד" target="_blank" rel="noopener noreferer">לפוסט המלא<br></a><a href="https://payboxapp.page.link/KzAVcfYv9A3RQs8w5" target="_blank" rel="noopener noreferer nofollow">קנו לנו קפה </a>☕<br>הפודקאסט נוצר בעזרת בינה מלאכותית, ועשוי לכלול טעויות בהגייה. מומלץ להאזין יחד עם הילדים.</p><p></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hamal4kids/episodes/ep-e35769n</link>
+			<guid isPermaLink="false">fc40af64-6222-4e58-94fa-573963f64d87</guid>
+			<dc:creator><![CDATA[חמ"ל לילדים]]></dc:creator>
+			<pubDate>Mon, 07 Jul 2025 12:16:50 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1046dec64/podcast/play/105142007/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-7%2F403450829-44100-2-98a6a6b5347ce.m4a" length="10340073" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;שוקולד לא תמיד היה מתוק.&lt;br&gt;פעם שתו אותו. בלי חלב, בלי סוכר, עם פלפל חריף.&lt;br&gt;אז איך הוא הפך למה שאנחנו מכירים היום?&lt;br&gt;בפרק הזה נעקוב אחרי הסיפור של השוקולד — מהג&amp;#39;ונגלים של מרכז אמריקה עד לקיוסק.&lt;/p&gt;&lt;p&gt;הפודקאסט הוא חלק מ&amp;quot;חמ״ל לילדים&amp;quot; – פרויקט קהילתי חינמי.&lt;br&gt;&lt;a href=&quot;https://www.hamal4kids.online/post/מסע-מתוק-אל-עולם-השוקולד&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;לפוסט המלא&lt;br&gt;&lt;/a&gt;&lt;a href=&quot;https://payboxapp.page.link/KzAVcfYv9A3RQs8w5&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer nofollow&quot;&gt;קנו לנו קפה &lt;/a&gt;☕&lt;br&gt;הפודקאסט נוצר בעזרת בינה מלאכותית, ועשוי לכלול טעויות בהגייה. מומלץ להאזין יחד עם הילדים.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:10:39</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43592801/43592801-1751891176759-b3d4d50dea657.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[המוזאזאורים: שליטי הים הקדום]]></title>
+			<description><![CDATA[<p>הם היו עצומים, מסוכנים, ושלטו באוקיינוסים בזמן שהדינוזאורים שלטו ביבשה.<br>אבל מה בדיוק היו מוזאזאורים? דגים? לטאות? תנינים?<br>ואיך נראה יצור שיכול לבלוע כריש לארוחת בוקר?</p><p>בואו לצלול לפרק חדש של &quot;רגע, מה?&quot; ולגלות את הסיפור האמיתי מאחורי מפלצות הים.</p><p>הפודקאסט הוא חלק מחמ&quot;ל לילדים — מיזם קהילתי שמביא תוכן סקרן, מצחיק וחינמי לילדי ישראל.<br><a href="https://www.hamal4kids.online/post/דינוזאורים-יצורי-הים" target="_blank" rel="noopener noreferer">לפרק המלא עם הפתעות נוספות</a>רוצים לתמוך? <a href="https://payboxapp.page.link/KzAVcfYv9A3RQs8w5" target="_blank" rel="noopener noreferer nofollow">קנו לנו קפה </a>☕<br>שימו לב: הפודקאסט הופק בכלי בינה מלאכותית ועלולות להיות טעויות בהגייה.<br>אנחנו ממליצים להאזין יחד עם הילדים ולתווך הגייה נכונה.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hamal4kids/episodes/ep-e33eopr</link>
+			<guid isPermaLink="false">8a629693-bbd0-4feb-bb54-d58e8059ec68</guid>
+			<dc:creator><![CDATA[חמ"ל לילדים]]></dc:creator>
+			<pubDate>Tue, 27 May 2025 20:30:03 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1046dec64/podcast/play/103293179/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-27%2Fc0794129-e9a5-38aa-445c-5bfe90ff8567.mp3" length="7753978" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;הם היו עצומים, מסוכנים, ושלטו באוקיינוסים בזמן שהדינוזאורים שלטו ביבשה.&lt;br&gt;אבל מה בדיוק היו מוזאזאורים? דגים? לטאות? תנינים?&lt;br&gt;ואיך נראה יצור שיכול לבלוע כריש לארוחת בוקר?&lt;/p&gt;&lt;p&gt;בואו לצלול לפרק חדש של &amp;quot;רגע, מה?&amp;quot; ולגלות את הסיפור האמיתי מאחורי מפלצות הים.&lt;/p&gt;&lt;p&gt;הפודקאסט הוא חלק מחמ&amp;quot;ל לילדים — מיזם קהילתי שמביא תוכן סקרן, מצחיק וחינמי לילדי ישראל.&lt;br&gt;&lt;a href=&quot;https://www.hamal4kids.online/post/דינוזאורים-יצורי-הים&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;לפרק המלא עם הפתעות נוספות&lt;/a&gt;רוצים לתמוך? &lt;a href=&quot;https://payboxapp.page.link/KzAVcfYv9A3RQs8w5&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer nofollow&quot;&gt;קנו לנו קפה &lt;/a&gt;☕&lt;br&gt;שימו לב: הפודקאסט הופק בכלי בינה מלאכותית ועלולות להיות טעויות בהגייה.&lt;br&gt;אנחנו ממליצים להאזין יחד עם הילדים ולתווך הגייה נכונה.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:08:04</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43592801/43592801-1748377781890-8c015ad97a8a9.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>11</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[פטרודקטיל: לא דינוזואר, אבל מגניב]]></title>
+			<description><![CDATA[<p>הם נראו כמו דרקונים, עפו מעל הדינוזאורים, והיו בעלי כנפיים ענקיות — אבל האם הם באמת היו דינוזאורים?<br />והאם ייתכן שהם עפו פעם ממש פה, מעל ישראל?</p><p>בפרק הזה של "רגע, מה?" נבין מה זה בכלל פטרודקטיל, איך הוא עף, ומה עושים עם מקור בלי שיניים.</p><p>הפודקאסט הוא חלק מחמ"ל לילדים — מיזם קהילתי שמביא תוכן סקרן, מצחיק וחינמי לילדי ישראל.<br /><a href="https://www.hamal4kids.online/post/דינוזאורים-האם-חיו-כאן-דינוזאורים-מעופפים-פטרודקטילים" target="_blank" rel="ugc noopener noreferrer">לפרק המלא עם הפתעות נוספות</a><br />רוצים לתמוך? <a href="https://payboxapp.page.link/KzAVcfYv9A3RQs8w5" target="_blank" rel="ugc noopener noreferrer">קנו לנו קפה</a> ☕<br />שימו לב: הפודקאסט הופק בכלי בינה מלאכותית ועלולות להיות טעויות בהגייה.<br />אנחנו ממליצים להאזין יחד עם הילדים ולתווך הגייה נכונה.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hamal4kids/episodes/ep-e33bdv7</link>
+			<guid isPermaLink="false">11d4fc73-80d3-4ccc-9586-9bb05ebc72a2</guid>
+			<dc:creator><![CDATA[חמ"ל לילדים]]></dc:creator>
+			<pubDate>Sun, 25 May 2025 19:25:18 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1046dec64/podcast/play/103183783/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-25%2F70efd4b2-4930-b99a-6438-c4b5837b464b.mp3" length="5992698" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;הם נראו כמו דרקונים, עפו מעל הדינוזאורים, והיו בעלי כנפיים ענקיות — אבל האם הם באמת היו דינוזאורים?&lt;br /&gt;והאם ייתכן שהם עפו פעם ממש פה, מעל ישראל?&lt;/p&gt;&lt;p&gt;בפרק הזה של &quot;רגע, מה?&quot; נבין מה זה בכלל פטרודקטיל, איך הוא עף, ומה עושים עם מקור בלי שיניים.&lt;/p&gt;&lt;p&gt;הפודקאסט הוא חלק מחמ&quot;ל לילדים — מיזם קהילתי שמביא תוכן סקרן, מצחיק וחינמי לילדי ישראל.&lt;br /&gt;&lt;a href=&quot;https://www.hamal4kids.online/post/דינוזאורים-האם-חיו-כאן-דינוזאורים-מעופפים-פטרודקטילים&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;לפרק המלא עם הפתעות נוספות&lt;/a&gt;&lt;br /&gt;רוצים לתמוך? &lt;a href=&quot;https://payboxapp.page.link/KzAVcfYv9A3RQs8w5&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;קנו לנו קפה&lt;/a&gt; ☕&lt;br /&gt;שימו לב: הפודקאסט הופק בכלי בינה מלאכותית ועלולות להיות טעויות בהגייה.&lt;br /&gt;אנחנו ממליצים להאזין יחד עם הילדים ולתווך הגייה נכונה.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:06:14</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43592801/43592801-1748201089288-9c538854894f4.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>10</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[הטי־רקס: טורף שלא כדאי להתעסק איתו]]></title>
+			<description><![CDATA[<p></p><p>טי־רקס היה אחד הדינוזאורים הכי מפחידים שידענו — גדול, חזק, רועש, וצייד מתוחכם.<br />אבל מה באמת גרם לו לשלוט בטופ של שרשרת המזון?<br />האם הוא צד לבד? מה הוא אהב לאכול? ואיך בכלל מדענים יודעים את כל זה?</p><p>האזינו לפרק חדש של "רגע, מה?" וגלו את הסיפור האמיתי שמאחורי השיניים.</p><p>הפודקאסט הוא חלק מחמ"ל לילדים — מיזם קהילתי שמביא תוכן סקרן, מצחיק וחינמי לילדי ישראל.<br /><a href="https://www.hamal4kids.online/post/דינוזאורים-טירנוזאורוס-רקס" target="_blank" rel="ugc noopener noreferrer">לפרק המלא עם הפתעות נוספות<br /></a>רוצים לתמוך? <a href="https://payboxapp.page.link/KzAVcfYv9A3RQs8w5" target="_blank" rel="ugc noopener noreferrer">קנו לנו קפה</a> ☕<br />שימו לב: הפודקאסט הופק בכלי בינה מלאכותית ועלולות להיות טעויות בהגייה.<br />אנחנו ממליצים להאזין יחד עם הילדים ולתווך הגייה נכונה.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hamal4kids/episodes/ep-e339q2n</link>
+			<guid isPermaLink="false">57375d78-f84c-439e-805f-6e51a68dbaff</guid>
+			<dc:creator><![CDATA[חמ"ל לילדים]]></dc:creator>
+			<pubDate>Sat, 24 May 2025 06:40:38 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1046dec64/podcast/play/103130647/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-24%2F93b28f09-9246-5fd7-ce22-caa87ccd1d6d.mp3" length="7623575" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;/p&gt;&lt;p&gt;טי־רקס היה אחד הדינוזאורים הכי מפחידים שידענו — גדול, חזק, רועש, וצייד מתוחכם.&lt;br /&gt;אבל מה באמת גרם לו לשלוט בטופ של שרשרת המזון?&lt;br /&gt;האם הוא צד לבד? מה הוא אהב לאכול? ואיך בכלל מדענים יודעים את כל זה?&lt;/p&gt;&lt;p&gt;האזינו לפרק חדש של &quot;רגע, מה?&quot; וגלו את הסיפור האמיתי שמאחורי השיניים.&lt;/p&gt;&lt;p&gt;הפודקאסט הוא חלק מחמ&quot;ל לילדים — מיזם קהילתי שמביא תוכן סקרן, מצחיק וחינמי לילדי ישראל.&lt;br /&gt;&lt;a href=&quot;https://www.hamal4kids.online/post/דינוזאורים-טירנוזאורוס-רקס&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;לפרק המלא עם הפתעות נוספות&lt;br /&gt;&lt;/a&gt;רוצים לתמוך? &lt;a href=&quot;https://payboxapp.page.link/KzAVcfYv9A3RQs8w5&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;קנו לנו קפה&lt;/a&gt; ☕&lt;br /&gt;שימו לב: הפודקאסט הופק בכלי בינה מלאכותית ועלולות להיות טעויות בהגייה.&lt;br /&gt;אנחנו ממליצים להאזין יחד עם הילדים ולתווך הגייה נכונה.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:07:56</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43592801/43592801-1748068560481-0c1142e4b88d4.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[הוולוצירפטור: חכם, קטן ומסוכן]]></title>
+			<description><![CDATA[<p>הוא היה מהיר, חד, חכם — ובגודל של תרנגול.<br>אז למה אנחנו זוכרים אותו כמו מפלצת מ&quot;פארק היורה&quot;?<br>ומה באמת עשה אותו כל כך מסוכן?</p><p>בואו להכיר את הדינוזואר שלא תרצו לפגוש לבד ביער...</p><p>הפודקאסט הוא חלק מחמ&quot;ל לילדים — מיזם קהילתי שמביא תוכן סקרן, מצחיק וחינמי לילדי ישראל.<br><a href="https://www.hamal4kids.online/post/%D7%93%D7%99%D7%A0%D7%95%D7%96%D7%90%D7%95%D7%A8%D7%99%D7%9D-%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%A8%D7%A4%D7%98%D7%95%D7%A8" target="_blank" rel="noopener noreferer">לפרק המלא עם הפתעות נוספות</a><br>רוצים לתמוך? https://payboxapp.page.link/KzAVcfYv9A3RQs8w5 ☕<br>שימו לב: הפודקאסט הופק בכלי בינה מלאכותית ועלולות להיות טעויות בהגייה.<br>אנחנו ממליצים להאזין יחד עם הילדים ולתווך הגייה נכונה.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hamal4kids/episodes/ep-e334anj</link>
+			<guid isPermaLink="false">f7fc33b9-d651-4eed-900a-4d85d5eb525c</guid>
+			<dc:creator><![CDATA[חמ"ל לילדים]]></dc:creator>
+			<pubDate>Fri, 23 May 2025 08:53:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1046dec64/podcast/play/102951091/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-20%2Ffe383510-3020-96aa-7917-4047f3ff1bc3.mp3" length="6529358" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;הוא היה מהיר, חד, חכם — ובגודל של תרנגול.&lt;br&gt;אז למה אנחנו זוכרים אותו כמו מפלצת מ&amp;quot;פארק היורה&amp;quot;?&lt;br&gt;ומה באמת עשה אותו כל כך מסוכן?&lt;/p&gt;&lt;p&gt;בואו להכיר את הדינוזואר שלא תרצו לפגוש לבד ביער...&lt;/p&gt;&lt;p&gt;הפודקאסט הוא חלק מחמ&amp;quot;ל לילדים — מיזם קהילתי שמביא תוכן סקרן, מצחיק וחינמי לילדי ישראל.&lt;br&gt;&lt;a href=&quot;https://www.hamal4kids.online/post/%D7%93%D7%99%D7%A0%D7%95%D7%96%D7%90%D7%95%D7%A8%D7%99%D7%9D-%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%A8%D7%A4%D7%98%D7%95%D7%A8&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;לפרק המלא עם הפתעות נוספות&lt;/a&gt;&lt;br&gt;רוצים לתמוך? https://payboxapp.page.link/KzAVcfYv9A3RQs8w5 ☕&lt;br&gt;שימו לב: הפודקאסט הופק בכלי בינה מלאכותית ועלולות להיות טעויות בהגייה.&lt;br&gt;אנחנו ממליצים להאזין יחד עם הילדים ולתווך הגייה נכונה.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:06:48</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43592801/43592801-1747774371387-280770b4cf14b.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>8</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[הטריצרטופס: קרנף עם צווארון]]></title>
+			<description><![CDATA[<p>שלוש קרניים, צווארון ענק, ומראה של קרנף פרהיסטורי — הטריצרטופס אולי נראה מפחיד, אבל הוא בכלל היה צמחוני.<br>אז איך הוא הסתדר עם טי־רקסים? ולמה בכלל צריך שלוש קרניים?</p><p>לחצו פליי לפרק חדש ומפתיע בסדרת הדינוזאורים של &quot;רגע, מה?&quot;</p><p>הפודקאסט הוא חלק מחמ&quot;ל לילדים — מיזם קהילתי שמביא תוכן סקרן, מצחיק וחינמי לילדי ישראל.<br><a href="https://www.hamal4kids.online/post/%D7%93%D7%99%D7%A0%D7%95%D7%96%D7%90%D7%95%D7%A8%D7%99%D7%9D-%D7%98%D7%A8%D7%99%D7%A6%D7%A8%D7%98%D7%95%D7%A4%D7%A1" target="_blank" rel="noopener noreferer">לפרק המלא עם הפתעות נוספות<br></a>רוצים לתמוך?<a href="https://payboxapp.page.link/KzAVcfYv9A3RQs8w5" target="_blank" rel="noopener noreferer nofollow"> קנו לנו קפה</a> ☕<br>שימו לב: הפודקאסט הופק בכלי בינה מלאכותית ועלולות להיות טעויות בהגייה.<br>אנחנו ממליצים להאזין יחד עם הילדים ולתווך הגייה נכונה.</p><p></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hamal4kids/episodes/ep-e3349qs</link>
+			<guid isPermaLink="false">e31f0c1f-c287-4717-bc30-556077885026</guid>
+			<dc:creator><![CDATA[חמ"ל לילדים]]></dc:creator>
+			<pubDate>Thu, 22 May 2025 08:29:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1046dec64/podcast/play/102950172/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-20%2F400670443-44100-2-ebce154d7064f.m4a" length="7720952" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;שלוש קרניים, צווארון ענק, ומראה של קרנף פרהיסטורי — הטריצרטופס אולי נראה מפחיד, אבל הוא בכלל היה צמחוני.&lt;br&gt;אז איך הוא הסתדר עם טי־רקסים? ולמה בכלל צריך שלוש קרניים?&lt;/p&gt;&lt;p&gt;לחצו פליי לפרק חדש ומפתיע בסדרת הדינוזאורים של &amp;quot;רגע, מה?&amp;quot;&lt;/p&gt;&lt;p&gt;הפודקאסט הוא חלק מחמ&amp;quot;ל לילדים — מיזם קהילתי שמביא תוכן סקרן, מצחיק וחינמי לילדי ישראל.&lt;br&gt;&lt;a href=&quot;https://www.hamal4kids.online/post/%D7%93%D7%99%D7%A0%D7%95%D7%96%D7%90%D7%95%D7%A8%D7%99%D7%9D-%D7%98%D7%A8%D7%99%D7%A6%D7%A8%D7%98%D7%95%D7%A4%D7%A1&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;לפרק המלא עם הפתעות נוספות&lt;br&gt;&lt;/a&gt;רוצים לתמוך?&lt;a href=&quot;https://payboxapp.page.link/KzAVcfYv9A3RQs8w5&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer nofollow&quot;&gt; קנו לנו קפה&lt;/a&gt; ☕&lt;br&gt;שימו לב: הפודקאסט הופק בכלי בינה מלאכותית ועלולות להיות טעויות בהגייה.&lt;br&gt;אנחנו ממליצים להאזין יחד עם הילדים ולתווך הגייה נכונה.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:07:57</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43592801/43592801-1747772966300-a92c9053f6ab1.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[הספינוזאורוס: דג? תנין? דינוזואר!]]></title>
+			<description><![CDATA[<p></p><p>הוא צד דגים, אהב מים, הלך לפעמים על ארבע — והיה אחד הדינוזאורים הכי מוזרים שפגשנו.<br />יש לו מפרש על הגב, זנב לשחייה, ושיניים חדות במיוחד.</p><p>אז מה הוא בעצם היה — דג? תנין? או דינוזואר אמיתי? האזינו וגלו!</p><p>הפודקאסט הוא חלק מחמ"ל לילדים — מיזם קהילתי שמביא תוכן סקרן, מצחיק וחינמי לילדי ישראל.<br /><a href="https://www.hamal4kids.online/post/%D7%93%D7%99%D7%A0%D7%95%D7%96%D7%90%D7%95%D7%A8%D7%99%D7%9D-%D7%A1%D7%A4%D7%99%D7%A0%D7%95%D7%96%D7%90%D7%95%D7%A8%D7%95%D7%A1" target="_blank" rel="ugc noopener noreferrer">לפרק המלא עם הפתעות נוספות</a><br />רוצים לתמוך? <a href="https://payboxapp.page.link/KzAVcfYv9A3RQs8w5" target="_blank" rel="ugc noopener noreferrer">קנו לנו קפה</a> ☕<br />שימו לב: הפודקאסט הופק בכלי בינה מלאכותית ועלולות להיות טעויות בהגייה.<br />אנחנו ממליצים להאזין יחד עם הילדים ולתווך הגייה נכונה.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hamal4kids/episodes/ep-e3348lq</link>
+			<guid isPermaLink="false">c6b1ea58-7bdc-4e77-bd9d-2cdd260fe727</guid>
+			<dc:creator><![CDATA[חמ"ל לילדים]]></dc:creator>
+			<pubDate>Wed, 21 May 2025 08:13:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1046dec64/podcast/play/102948986/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-20%2F400668662-44100-2-33f6ee3a03713.m4a" length="5050464" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;&lt;/p&gt;&lt;p&gt;הוא צד דגים, אהב מים, הלך לפעמים על ארבע — והיה אחד הדינוזאורים הכי מוזרים שפגשנו.&lt;br /&gt;יש לו מפרש על הגב, זנב לשחייה, ושיניים חדות במיוחד.&lt;/p&gt;&lt;p&gt;אז מה הוא בעצם היה — דג? תנין? או דינוזואר אמיתי? האזינו וגלו!&lt;/p&gt;&lt;p&gt;הפודקאסט הוא חלק מחמ&quot;ל לילדים — מיזם קהילתי שמביא תוכן סקרן, מצחיק וחינמי לילדי ישראל.&lt;br /&gt;&lt;a href=&quot;https://www.hamal4kids.online/post/%D7%93%D7%99%D7%A0%D7%95%D7%96%D7%90%D7%95%D7%A8%D7%99%D7%9D-%D7%A1%D7%A4%D7%99%D7%A0%D7%95%D7%96%D7%90%D7%95%D7%A8%D7%95%D7%A1&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;לפרק המלא עם הפתעות נוספות&lt;/a&gt;&lt;br /&gt;רוצים לתמוך? &lt;a href=&quot;https://payboxapp.page.link/KzAVcfYv9A3RQs8w5&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;קנו לנו קפה&lt;/a&gt; ☕&lt;br /&gt;שימו לב: הפודקאסט הופק בכלי בינה מלאכותית ועלולות להיות טעויות בהגייה.&lt;br /&gt;אנחנו ממליצים להאזין יחד עם הילדים ולתווך הגייה נכונה.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:05:12</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43592801/43592801-1747771487160-d0166abf31654.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[הסטגוזאורוס: לוח גב מהלך]]></title>
+			<description><![CDATA[<p></p><p>עם לוחות על הגב וקוצים על הזנב, הסטגוזאורוס נראה כמו שילוב בין דינוזואר לגדר חשמלית.<br>אבל למה היו לו כל כך הרבה קישוטים? ואיך הוא הגן על עצמו?</p><p>האזינו לפרק חדש בסדרת &quot;רגע, מה?&quot; וגלה את הסודות של אחד הדינוזאורים הכי מוזרים בעולם.</p><p>הפודקאסט הוא חלק מחמ&quot;ל לילדים — מיזם קהילתי שמביא תוכן סקרן, מצחיק וחינמי לילדי ישראל.<br><a href="https://www.hamal4kids.online/post/%D7%93%D7%99%D7%A0%D7%95%D7%96%D7%90%D7%95%D7%A8%D7%99%D7%9D-%D7%A1%D7%98%D7%92%D7%95%D7%96%D7%90%D7%95%D7%A8%D7%95%D7%A1" target="_blank" rel="noopener noreferer">לפרק המלא עם הפתעות נוספות</a><br>רוצים לתמוך? <a href="https://payboxapp.page.link/KzAVcfYv9A3RQs8w5" target="_blank" rel="noopener noreferer nofollow">קנו לנו קפה</a> ☕<br>שימו לב: הפודקאסט הופק בכלי בינה מלאכותית ועלולות להיות טעויות בהגייה.<br>אנחנו ממליצים להאזין יחד עם הילדים ולתווך הגייה נכונה.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hamal4kids/episodes/ep-e334618</link>
+			<guid isPermaLink="false">0e98d795-dda5-4b18-8b2a-04e6e76c4c56</guid>
+			<dc:creator><![CDATA[חמ"ל לילדים]]></dc:creator>
+			<pubDate>Tue, 20 May 2025 19:30:27 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1046dec64/podcast/play/102946280/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-20%2Fa5e90edb-b5a5-ee18-c5c9-bb1d0261a67d.mp3" length="6934360" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;/p&gt;&lt;p&gt;עם לוחות על הגב וקוצים על הזנב, הסטגוזאורוס נראה כמו שילוב בין דינוזואר לגדר חשמלית.&lt;br&gt;אבל למה היו לו כל כך הרבה קישוטים? ואיך הוא הגן על עצמו?&lt;/p&gt;&lt;p&gt;האזינו לפרק חדש בסדרת &amp;quot;רגע, מה?&amp;quot; וגלה את הסודות של אחד הדינוזאורים הכי מוזרים בעולם.&lt;/p&gt;&lt;p&gt;הפודקאסט הוא חלק מחמ&amp;quot;ל לילדים — מיזם קהילתי שמביא תוכן סקרן, מצחיק וחינמי לילדי ישראל.&lt;br&gt;&lt;a href=&quot;https://www.hamal4kids.online/post/%D7%93%D7%99%D7%A0%D7%95%D7%96%D7%90%D7%95%D7%A8%D7%99%D7%9D-%D7%A1%D7%98%D7%92%D7%95%D7%96%D7%90%D7%95%D7%A8%D7%95%D7%A1&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;לפרק המלא עם הפתעות נוספות&lt;/a&gt;&lt;br&gt;רוצים לתמוך? &lt;a href=&quot;https://payboxapp.page.link/KzAVcfYv9A3RQs8w5&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer nofollow&quot;&gt;קנו לנו קפה&lt;/a&gt; ☕&lt;br&gt;שימו לב: הפודקאסט הופק בכלי בינה מלאכותית ועלולות להיות טעויות בהגייה.&lt;br&gt;אנחנו ממליצים להאזין יחד עם הילדים ולתווך הגייה נכונה.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:07:13</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43592801/43592801-1747769328656-6b9c4f71cb077.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[האנקלוזאורוס: דינוזאור שהוא טנק]]></title>
+			<description><![CDATA[<p><strong>האנקלוזאורוס: שיריון על ארבע</strong><br>מי תקף אותו? למה היה לו פטיש בזנב? ואיך בכלל שורדים בעולם מלא טי־רקסים?</p><p>בפרק החדש של &quot;רגע, מה?&quot; נכיר את אחד הדינוזאורים הכי ממוגנים בעולם.<br>לחצו פליי וגלו איך זה מרגיש להיות טנק מהלך בעידן הדינוזאורים!</p><p>הפודקאסט הוא חלק מחמ&quot;ל לילדים — מיזם קהילתי שמביא תוכן סקרן, מצחיק וחינמי לילדי ישראל.<br><a href="https://www.hamal4kids.online/post/דינוזאורים-אנקילוזאורוס" target="_blank" rel="noopener noreferer">לפרק המלא עם הפתעות נוספות</a><br>רוצים לתמוך? <a href="https://payboxapp.page.link/KzAVcfYv9A3RQs8w5" target="_blank" rel="noopener noreferer nofollow">קנו לנו קפה </a>☕<br>שימו לב: הפודקאסט הופק בכלי בינה מלאכותית ועלולות להיות טעויות בהגייה.<br>אנחנו ממליצים להאזין יחד עם הילדים ולתווך הגייה נכונה.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hamal4kids/episodes/ep-e32rora</link>
+			<guid isPermaLink="false">e99efb3b-c9fa-49a3-aece-6f8255e4d14f</guid>
+			<dc:creator><![CDATA[חמ"ל לילדים]]></dc:creator>
+			<pubDate>Wed, 14 May 2025 20:17:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1046dec64/podcast/play/102670634/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-14%2F400293334-44100-2-15dfb94d885c3.m4a" length="5911933" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;האנקלוזאורוס: שיריון על ארבע&lt;/strong&gt;&lt;br&gt;מי תקף אותו? למה היה לו פטיש בזנב? ואיך בכלל שורדים בעולם מלא טי־רקסים?&lt;/p&gt;&lt;p&gt;בפרק החדש של &amp;quot;רגע, מה?&amp;quot; נכיר את אחד הדינוזאורים הכי ממוגנים בעולם.&lt;br&gt;לחצו פליי וגלו איך זה מרגיש להיות טנק מהלך בעידן הדינוזאורים!&lt;/p&gt;&lt;p&gt;הפודקאסט הוא חלק מחמ&amp;quot;ל לילדים — מיזם קהילתי שמביא תוכן סקרן, מצחיק וחינמי לילדי ישראל.&lt;br&gt;&lt;a href=&quot;https://www.hamal4kids.online/post/דינוזאורים-אנקילוזאורוס&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;לפרק המלא עם הפתעות נוספות&lt;/a&gt;&lt;br&gt;רוצים לתמוך? &lt;a href=&quot;https://payboxapp.page.link/KzAVcfYv9A3RQs8w5&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer nofollow&quot;&gt;קנו לנו קפה &lt;/a&gt;☕&lt;br&gt;שימו לב: הפודקאסט הופק בכלי בינה מלאכותית ועלולות להיות טעויות בהגייה.&lt;br&gt;אנחנו ממליצים להאזין יחד עם הילדים ולתווך הגייה נכונה.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:06:05</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43592801/43592801-1747253512121-19a092014d542.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[הברכיוזאורוס: הענק השקט של היורה]]></title>
+			<description><![CDATA[<p><strong>הברכיוזאורוס היה דינוזואר עצום עם צוואר ארוך שיכול להגיע כמעט לגובה של בניין!</strong><br>אבל למה הוא היה כל כך גבוה? ואיך הוא בכלל עמד על הרגליים?</p><p>הפרק הזה הוא חלק מסדרת הדינוזאורים של &quot;רגע, מה?&quot; — לחצו פליי והצטרפו למסע פרה־היסטורי מסקרן.</p><p>הפודקאסט הוא חלק מחמ&quot;ל לילדים — מיזם קהילתי שמביא תוכן סקרן, מצחיק וחינמי לילדי ישראל.<br><a href="https://www.hamal4kids.online/post/דינוזאורים-ברכיוזאורוס⁠" target="_blank" rel="noopener noreferer">לחצו כאן לפרק המלא עם הפתעות נוספות</a><br>רוצים לתמוך? <a href="https://payboxapp.page.link/KzAVcfYv9A3RQs8w5" target="_blank" rel="noopener noreferer">קנו לנו קפה</a> ☕<br>שימו לב: הפודקאסט הופק בכלי בינה מלאכותית ועלולות להיות טעויות בהגייה.<br>אנחנו ממליצים להאזין יחד עם הילדים ולתווך הגייה נכונה.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hamal4kids/episodes/ep-e32pdna</link>
+			<guid isPermaLink="false">1ecfa5c4-444a-47bd-9764-c6a1c9838b5d</guid>
+			<dc:creator><![CDATA[חמ"ל לילדים]]></dc:creator>
+			<pubDate>Tue, 13 May 2025 18:31:45 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1046dec64/podcast/play/102593706/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-13%2F400161836-44100-2-a508fd6589054.m4a" length="5156389" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;הברכיוזאורוס היה דינוזואר עצום עם צוואר ארוך שיכול להגיע כמעט לגובה של בניין!&lt;/strong&gt;&lt;br&gt;אבל למה הוא היה כל כך גבוה? ואיך הוא בכלל עמד על הרגליים?&lt;/p&gt;&lt;p&gt;הפרק הזה הוא חלק מסדרת הדינוזאורים של &amp;quot;רגע, מה?&amp;quot; — לחצו פליי והצטרפו למסע פרה־היסטורי מסקרן.&lt;/p&gt;&lt;p&gt;הפודקאסט הוא חלק מחמ&amp;quot;ל לילדים — מיזם קהילתי שמביא תוכן סקרן, מצחיק וחינמי לילדי ישראל.&lt;br&gt;&lt;a href=&quot;https://www.hamal4kids.online/post/דינוזאורים-ברכיוזאורוס⁠&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;לחצו כאן לפרק המלא עם הפתעות נוספות&lt;/a&gt;&lt;br&gt;רוצים לתמוך? &lt;a href=&quot;https://payboxapp.page.link/KzAVcfYv9A3RQs8w5&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;קנו לנו קפה&lt;/a&gt; ☕&lt;br&gt;שימו לב: הפודקאסט הופק בכלי בינה מלאכותית ועלולות להיות טעויות בהגייה.&lt;br&gt;אנחנו ממליצים להאזין יחד עם הילדים ולתווך הגייה נכונה.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:05:18</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43592801/43592801-1747142076501-11d69f4161095.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[דיפלודוקוס: מה נסגר עם הצוואר]]></title>
+			<description><![CDATA[<p><strong>הכירו את דיפלודוקוס – הדינוזואר הארוך מכולם!</strong><br />איך הוא נראה באמת, למה היה לו צוואר כזה ארוך, ומה הקטע עם הזנב הענק?<br />לחצו פליי וצאו איתנו למסע פרהיסטורי!</p><p>הפרק הזה הוא חלק מסדרת הדינוזאורים של "רגע, מה?", מבית חמ"ל לילדים — מיזם קהילתי שמביא תוכן סקרן, מצחיק וחינמי לילדי ישראל.<br /><a href="https://www.hamal4kids.online/post/דינוזאורים-דיפלודוקוס⁠" target="_blank" rel="ugc noopener noreferrer">לפוסט המלא על הדיפלודוקוס באתר חמ"ל לילדים</a><br />רוצים לתמוך? <a href="https://payboxapp.page.link/KzAVcfYv9A3RQs8w5" target="_blank" rel="ugc noopener noreferrer">קנו לנו קפה</a> ☕<br />שימו לב — הפודקאסט נוצר בכלי AI ולכן יתכנו טעויות הגייה. אנחנו ממליצים להאזין יחד ולתווך הגייה נכונה.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hamal4kids/episodes/ep-e32odjd</link>
+			<guid isPermaLink="false">e2b2f797-53b4-4dce-b56e-98c48927872b</guid>
+			<dc:creator><![CDATA[חמ"ל לילדים]]></dc:creator>
+			<pubDate>Mon, 12 May 2025 20:11:38 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1046dec64/podcast/play/102560813/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-12%2F400116854-44100-2-1a600a4ec3e7d.m4a" length="6245734" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;הכירו את דיפלודוקוס – הדינוזואר הארוך מכולם!&lt;/strong&gt;&lt;br /&gt;איך הוא נראה באמת, למה היה לו צוואר כזה ארוך, ומה הקטע עם הזנב הענק?&lt;br /&gt;לחצו פליי וצאו איתנו למסע פרהיסטורי!&lt;/p&gt;&lt;p&gt;הפרק הזה הוא חלק מסדרת הדינוזאורים של &quot;רגע, מה?&quot;, מבית חמ&quot;ל לילדים — מיזם קהילתי שמביא תוכן סקרן, מצחיק וחינמי לילדי ישראל.&lt;br /&gt;&lt;a href=&quot;https://www.hamal4kids.online/post/דינוזאורים-דיפלודוקוס⁠&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;לפוסט המלא על הדיפלודוקוס באתר חמ&quot;ל לילדים&lt;/a&gt;&lt;br /&gt;רוצים לתמוך? &lt;a href=&quot;https://payboxapp.page.link/KzAVcfYv9A3RQs8w5&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;קנו לנו קפה&lt;/a&gt; ☕&lt;br /&gt;שימו לב — הפודקאסט נוצר בכלי AI ולכן יתכנו טעויות הגייה. אנחנו ממליצים להאזין יחד ולתווך הגייה נכונה.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:06:26</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43592801/43592801-1747080490645-780ae6fc78b34.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[הכירו את הדינוזאורים]]></title>
+			<description><![CDATA[<p>ברוכים הבאים לפרק הראשון בסדרת הדינוזאורים של &quot;רגע, מה?&quot;</p><p>איך הם באמת נראו? למה לחלק מהם היו נוצות? ואיך אנחנו בכלל יודעים עליהם?</p><p>זה רק הפרק הראשון במסע פרה־היסטורי מרתק!</p><p><br></p><p>הפודקאסט הוא חלק מחמ&quot;ל לילדים — מיזם קהילתי שמביא תוכן סקרן, מצחיק וחינמי לילדי ישראל.</p><p>הפוסט המלא עם כל הפרטים והפתעות נוספות מחכה לכם באתר חמ&quot;ל לילדים.</p><p>לחצו פליי והצטרפו להרפתקה!</p><p>רוצים לתמוך? קנו לנו קפה</p><p> <a href="https://www.hamal4kids.online/" target="_blank" rel="ugc noopener noreferrer">⁠hamal4kids.online⁠</a></p><p>שימו לב, הפודקאסט נוצר בכלי AI ולכן יתכנו טעויות הגיה. אנחנו ממליצים להאזין יחד ולתווך הגייה נכונה</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hamal4kids/episodes/ep-e32mn7p</link>
+			<guid isPermaLink="false">9d418653-8e12-456f-a1a8-62e668c12a99</guid>
+			<dc:creator><![CDATA[חמ"ל לילדים]]></dc:creator>
+			<pubDate>Sun, 11 May 2025 18:35:51 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/1046dec64/podcast/play/102505145/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-11%2F400042035-44100-2-72a954300d0f8.m4a" length="7893930" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;ברוכים הבאים לפרק הראשון בסדרת הדינוזאורים של &amp;quot;רגע, מה?&amp;quot;&lt;/p&gt;&lt;p&gt;איך הם באמת נראו? למה לחלק מהם היו נוצות? ואיך אנחנו בכלל יודעים עליהם?&lt;/p&gt;&lt;p&gt;זה רק הפרק הראשון במסע פרה־היסטורי מרתק!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;הפודקאסט הוא חלק מחמ&amp;quot;ל לילדים — מיזם קהילתי שמביא תוכן סקרן, מצחיק וחינמי לילדי ישראל.&lt;/p&gt;&lt;p&gt;הפוסט המלא עם כל הפרטים והפתעות נוספות מחכה לכם באתר חמ&amp;quot;ל לילדים.&lt;/p&gt;&lt;p&gt;לחצו פליי והצטרפו להרפתקה!&lt;/p&gt;&lt;p&gt;רוצים לתמוך? קנו לנו קפה&lt;/p&gt;&lt;p&gt; &lt;a href=&quot;https://www.hamal4kids.online/&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;⁠hamal4kids.online⁠&lt;/a&gt;&lt;/p&gt;&lt;p&gt;שימו לב, הפודקאסט נוצר בכלי AI ולכן יתכנו טעויות הגיה. אנחנו ממליצים להאזין יחד ולתווך הגייה נכונה&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:08:08</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43592801/43592801-1746988826057-435f9cc66e526.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
 </rss>
