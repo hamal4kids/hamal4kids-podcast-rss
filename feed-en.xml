@@ -1,1 +1,282 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hamal4Kids</title><link>https://hamal4kids.co.il</link><language>en</language><description>Educational podcast for curious kids</description><atom:link href="https://hamal4kids.github.io/hamal4kids-podcast-rss/feed-en.xml" rel="self" type="application/rss+xml"/><itunes:author>Hamal4Kids</itunes:author><itunes:explicit>false</itunes:explicit><!-- Episodes will be added here by n8n automation --></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
+	<channel>
+		<title><![CDATA[Wait, WHAT?]]></title>
+		<description><![CDATA["Wait, What?" is a podcast for curious kids who want to discover how the world really works.
+In each episode, we dive into a fascinating topic, uncover surprising facts, tell funny stories, and open our minds to new ideas.
+The podcast is part of HAMAL 4 Kids — a community project bringing light, attention, and quality content to kids in Israel, all year round.
+🎧 Hit play and join us on a journey of wonder, wisdom, and imagination.
+❤ Want to help us keep going? Buy us coffee on hamal4kids.online
+Note: This podcast is generated using AI, so some pronunciation m]]></description>
+		<link>https://podcasters.spotify.com/pod/show/hamal4kids4</link>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Fri, 10 Apr 2026 15:58:50 GMT</lastBuildDate>
+		<atom:link href="https://hamal4kids.github.io/hamal4kids-podcast-rss/feed-en.xml" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Hamal4kids]]></author>
+		<copyright><![CDATA[Hamal4kids]]></copyright>
+		<language><![CDATA[en]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Hamal4kids</itunes:author>
+		<itunes:summary>&quot;Wait, What?&quot; is a podcast for curious kids who want to discover how the world really works.
+In each episode, we dive into a fascinating topic, uncover surprising facts, tell funny stories, and open our minds to new ideas.
+The podcast is part of HAMAL 4 Kids — a community project bringing light, attention, and quality content to kids in Israel, all year round.
+🎧 Hit play and join us on a journey of wonder, wisdom, and imagination.
+❤ Want to help us keep going? Buy us coffee on hamal4kids.online
+Note: This podcast is generated using AI, so some pronunciation m</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Hamal4kids</itunes:name>
+			<itunes:email>hamal4kids@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:category text="Kids &amp; Family"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/43644646/43644646-1746913238172-6371b7dc3c345.jpg"/>
+		<item>
+			<title><![CDATA[Sherlock Holmes: A Philosophical Guide to Life]]></title>
+			<description><![CDATA[<p>Why does Sherlock Holmes care about the dirt on someone’s shoes? How do philosophers think differently from other people? And what does all this have to do with the meaning of life?</p><p>In this episode, we follow the sharpest detective in history — and learn how careful observation and philosophical thinking go hand in hand!</p><p>This podcast is part of <strong>Hamal for Kids</strong> — a free community project offering curious Hebrew content for children.</p><p><a href="" target="_new" rel="noopener">Listen to the full episode here</a><br><a href="https://payboxapp.page.link/KzAVcfYv9A3RQs8w5" target="_new" rel="noopener">☕ Buy us a coffee</a></p><p>💡 This podcast was generated with AI and may contain pronunciation errors — we recommend co-listening with your kids.</p><p></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hamal4kids4/episodes/Sherlock-Holmes-A-Philosophical-Guide-to-Life-e3620o0</link>
+			<guid isPermaLink="false">37fc33f8-bcbc-48e9-9aaa-8042f0ddc792</guid>
+			<dc:creator><![CDATA[Hamal4kids]]></dc:creator>
+			<pubDate>Sat, 26 Jul 2025 14:24:47 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/104bd0858/podcast/play/106021056/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-26%2F404580025-44100-2-a838834d13ae.m4a" length="18258304" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Why does Sherlock Holmes care about the dirt on someone’s shoes? How do philosophers think differently from other people? And what does all this have to do with the meaning of life?&lt;/p&gt;&lt;p&gt;In this episode, we follow the sharpest detective in history — and learn how careful observation and philosophical thinking go hand in hand!&lt;/p&gt;&lt;p&gt;This podcast is part of &lt;strong&gt;Hamal for Kids&lt;/strong&gt; — a free community project offering curious Hebrew content for children.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;&quot; target=&quot;_new&quot; rel=&quot;noopener&quot;&gt;Listen to the full episode here&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://payboxapp.page.link/KzAVcfYv9A3RQs8w5&quot; target=&quot;_new&quot; rel=&quot;noopener&quot;&gt;☕ Buy us a coffee&lt;/a&gt;&lt;/p&gt;&lt;p&gt;💡 This podcast was generated with AI and may contain pronunciation errors — we recommend co-listening with your kids.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:18:48</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43644646/43644646-1753540188140-f07a4fc62618.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[A Journey into Mythologies: Through the Worlds of Ancient Imagination]]></title>
+			<description><![CDATA[<p>Who invented Medusa? Why do dragons have wings? And how come ancient myths from around the world tell such similar stories?</p><p>In this first episode of <em>Wait, What?!</em> we travel across time and imagination — to meet gods, monsters, and some very clever kids.</p><p>This podcast is part of <strong>Hamal for Kids</strong> — a free community project offering curious Hebrew content for children.</p><p><a href="" target="_new" rel="noopener">Listen to the full episode here</a><br><a href="https://payboxapp.page.link/KzAVcfYv9A3RQs8w5" target="_new" rel="noopener">☕ Buy us a coffee</a></p><p>💡 This podcast was generated with AI and may contain pronunciation errors — we recommend co-listening with your kids.</p><p></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hamal4kids4/episodes/A-Journey-into-Mythologies-Through-the-Worlds-of-Ancient-Imagination-e3620er</link>
+			<guid isPermaLink="false">923332e4-dbf7-4a69-8b66-466c15fcb133</guid>
+			<dc:creator><![CDATA[Hamal4kids]]></dc:creator>
+			<pubDate>Sat, 26 Jul 2025 14:12:44 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/104bd0858/podcast/play/106020763/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-26%2F404579612-44100-2-30d3b6a23f558.m4a" length="9296453" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Who invented Medusa? Why do dragons have wings? And how come ancient myths from around the world tell such similar stories?&lt;/p&gt;&lt;p&gt;In this first episode of &lt;em&gt;Wait, What?!&lt;/em&gt; we travel across time and imagination — to meet gods, monsters, and some very clever kids.&lt;/p&gt;&lt;p&gt;This podcast is part of &lt;strong&gt;Hamal for Kids&lt;/strong&gt; — a free community project offering curious Hebrew content for children.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;&quot; target=&quot;_new&quot; rel=&quot;noopener&quot;&gt;Listen to the full episode here&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://payboxapp.page.link/KzAVcfYv9A3RQs8w5&quot; target=&quot;_new&quot; rel=&quot;noopener&quot;&gt;☕ Buy us a coffee&lt;/a&gt;&lt;/p&gt;&lt;p&gt;💡 This podcast was generated with AI and may contain pronunciation errors — we recommend co-listening with your kids.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:09:34</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43644646/43644646-1753539273438-dc3aec894b947.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[The Long, Weird History of Chocolate]]></title>
+			<description><![CDATA[<p>Once upon a time, chocolate wasn’t candy.<br>It wasn’t sweet, brown, or in little squares.<br>So what <em>was</em> it? In this episode, we discover the surprising origins of chocolate — and how it became the treat we love today.</p><p>This podcast is part of “Hamal for Kids” — a free community project.<br><a href="https://www.hamal4kids.online/post/מסע-מתוק-אל-עולם-השוקולד" target="_blank" rel="noopener noreferer"><br></a><br><a href="https://payboxapp.page.link/KzAVcfYv9A3RQs8w5" target="_blank" rel="noopener noreferer nofollow">Buy us a coffee</a> ☕<br>This podcast is AI-generated and may include pronunciation errors — co-listening with children is </p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hamal4kids4/episodes/The-Long--Weird-History-of-Chocolate-e3576tb</link>
+			<guid isPermaLink="false">38d2afb1-ce44-4cc9-af30-993c5cb3d9f4</guid>
+			<dc:creator><![CDATA[Hamal4kids]]></dc:creator>
+			<pubDate>Mon, 07 Jul 2025 12:32:25 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/104bd0858/podcast/play/105142635/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-7%2F403451678-44100-2-77b778523bb69.m4a" length="14365340" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Once upon a time, chocolate wasn’t candy.&lt;br&gt;It wasn’t sweet, brown, or in little squares.&lt;br&gt;So what &lt;em&gt;was&lt;/em&gt; it? In this episode, we discover the surprising origins of chocolate — and how it became the treat we love today.&lt;/p&gt;&lt;p&gt;This podcast is part of “Hamal for Kids” — a free community project.&lt;br&gt;&lt;a href=&quot;https://www.hamal4kids.online/post/מסע-מתוק-אל-עולם-השוקולד&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;&lt;br&gt;&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://payboxapp.page.link/KzAVcfYv9A3RQs8w5&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer nofollow&quot;&gt;Buy us a coffee&lt;/a&gt; ☕&lt;br&gt;This podcast is AI-generated and may include pronunciation errors — co-listening with children is &lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:14:48</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43644646/43644646-1751891693887-7050465d2fe07.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Mosasaurs: Rulers of the Ancient Seas]]></title>
+			<description><![CDATA[<p>They were massive, dangerous, and ruled the oceans while dinosaurs ruled the land.<br>But what exactly were mosasaurs? Fish? Lizards? Crocodiles?<br>And what kind of creature can swallow a shark for breakfast?</p><p>Dive into a new <em>Wait, What?</em> episode and discover the truth behind these sea monsters.</p><p>This podcast is part of <em>Hamal for Kids</em> — a free, community-powered content project for curious Israeli children.<br><a href="https://www.hamal4kids.online/post/דינוזאורים-יצורי-הים" target="_blank" rel="noopener noreferer">Full episode and more</a> (in Hebrew)<br>Want to support us? <a href="https://payboxapp.page.link/KzAVcfYv9A3RQs8w5" target="_blank" rel="noopener noreferer nofollow">Buy us a coffee</a> ☕<br>Note: This episode was created using AI and may contain pronunciation errors. We recommend co-listening with your child.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hamal4kids4/episodes/Mosasaurs-Rulers-of-the-Ancient-Seas-e33eot9</link>
+			<guid isPermaLink="false">8f90a1d4-1eb2-40eb-b802-f11167377fd8</guid>
+			<dc:creator><![CDATA[Hamal4kids]]></dc:creator>
+			<pubDate>Tue, 27 May 2025 20:32:47 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/104bd0858/podcast/play/103293289/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-27%2F401111928-44100-2-75070ed13755.m4a" length="8115113" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;They were massive, dangerous, and ruled the oceans while dinosaurs ruled the land.&lt;br&gt;But what exactly were mosasaurs? Fish? Lizards? Crocodiles?&lt;br&gt;And what kind of creature can swallow a shark for breakfast?&lt;/p&gt;&lt;p&gt;Dive into a new &lt;em&gt;Wait, What?&lt;/em&gt; episode and discover the truth behind these sea monsters.&lt;/p&gt;&lt;p&gt;This podcast is part of &lt;em&gt;Hamal for Kids&lt;/em&gt; — a free, community-powered content project for curious Israeli children.&lt;br&gt;&lt;a href=&quot;https://www.hamal4kids.online/post/דינוזאורים-יצורי-הים&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Full episode and more&lt;/a&gt; (in Hebrew)&lt;br&gt;Want to support us? &lt;a href=&quot;https://payboxapp.page.link/KzAVcfYv9A3RQs8w5&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer nofollow&quot;&gt;Buy us a coffee&lt;/a&gt; ☕&lt;br&gt;Note: This episode was created using AI and may contain pronunciation errors. We recommend co-listening with your child.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:08:21</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43644646/43644646-1748377946531-1f26d8ca88118.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>11</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Pterodactyl: Not a Dinosaur, But Still Awesome]]></title>
+			<description><![CDATA[<p>They looked like dragons, soared above the dinosaurs, and had enormous wings —<br />but were they really dinosaurs?<br />And could they have once flown right over where we live?</p><p>In this <em>Wait, What?</em> episode, we’ll learn what a Pterodactyl actually was, how it flew, and what it did with a toothless beak.</p><p>This podcast is part of <em>Hamal for Kids</em> — a free, community-powered content project for curious Israeli children.<br /><a href="https://www.hamal4kids.online/post/דינוזאורים-האם-חיו-כאן-דינוזאורים-מעופפים-פטרודקטילים" target="_blank" rel="ugc noopener noreferrer">Full episode and more</a><br />Want to support us? <a href="https://payboxapp.page.link/KzAVcfYv9A3RQs8w5" target="_blank" rel="ugc noopener noreferrer">Buy us a coffee</a> ☕<br />Note: This episode was created using AI and may contain pronunciation errors. We recommend co-listening with your child.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hamal4kids4/episodes/Pterodactyl-Not-a-Dinosaur--But-Still-Awesome-e33be4p</link>
+			<guid isPermaLink="false">d5cacee1-5c11-4d23-bd93-ab0d5458580a</guid>
+			<dc:creator><![CDATA[Hamal4kids]]></dc:creator>
+			<pubDate>Sun, 25 May 2025 19:29:15 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/104bd0858/podcast/play/103183961/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-25%2F7266a9fc-518c-19ae-0ea9-8add3fc99e66.mp3" length="8168176" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;They looked like dragons, soared above the dinosaurs, and had enormous wings —&lt;br /&gt;but were they really dinosaurs?&lt;br /&gt;And could they have once flown right over where we live?&lt;/p&gt;&lt;p&gt;In this &lt;em&gt;Wait, What?&lt;/em&gt; episode, we’ll learn what a Pterodactyl actually was, how it flew, and what it did with a toothless beak.&lt;/p&gt;&lt;p&gt;This podcast is part of &lt;em&gt;Hamal for Kids&lt;/em&gt; — a free, community-powered content project for curious Israeli children.&lt;br /&gt;&lt;a href=&quot;https://www.hamal4kids.online/post/דינוזאורים-האם-חיו-כאן-דינוזאורים-מעופפים-פטרודקטילים&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;Full episode and more&lt;/a&gt;&lt;br /&gt;Want to support us? &lt;a href=&quot;https://payboxapp.page.link/KzAVcfYv9A3RQs8w5&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt;Buy us a coffee&lt;/a&gt; ☕&lt;br /&gt;Note: This episode was created using AI and may contain pronunciation errors. We recommend co-listening with your child.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:08:30</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43644646/43644646-1748201266015-fad29fe78bb17.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>10</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[T. rex: A Predator You Shouldn’t Mess With]]></title>
+			<description><![CDATA[<p></p><p>T. rex was one of the scariest dinosaurs ever — huge, strong, loud, and a skilled hunter.<br>But what made it such a top predator?<br>Did it hunt alone? What did it eat? And how do scientists even know?</p><p>Listen to this new <em>Wait, What?</em> episode and uncover the real story behind the teeth.</p><p>This podcast is part of <em>Hamal for Kids</em> — a free, community-powered content project for curious Israeli children.<br><a href="https://www.hamal4kids.online/post/דינוזאורים-טירנוזאורוס-רקס" target="_blank" rel="noopener noreferer">Full episode and more</a><br>Want to support us?https://payboxapp.page.link/KzAVcfYv9A3RQs8w5 ☕<br>Note: This episode was created using AI and may contain pronunciation errors. We recommend co-listening with your child.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hamal4kids4/episodes/T--rex-A-Predator-You-Shouldnt-Mess-With-e339q4j</link>
+			<guid isPermaLink="false">ab4291bd-d1e7-4a99-a9d1-7e23536d2631</guid>
+			<dc:creator><![CDATA[Hamal4kids]]></dc:creator>
+			<pubDate>Sat, 24 May 2025 06:39:57 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/104bd0858/podcast/play/103130707/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-24%2F400907685-44100-2-e90f18ad4bf21.m4a" length="8172180" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;&lt;/p&gt;&lt;p&gt;T. rex was one of the scariest dinosaurs ever — huge, strong, loud, and a skilled hunter.&lt;br&gt;But what made it such a top predator?&lt;br&gt;Did it hunt alone? What did it eat? And how do scientists even know?&lt;/p&gt;&lt;p&gt;Listen to this new &lt;em&gt;Wait, What?&lt;/em&gt; episode and uncover the real story behind the teeth.&lt;/p&gt;&lt;p&gt;This podcast is part of &lt;em&gt;Hamal for Kids&lt;/em&gt; — a free, community-powered content project for curious Israeli children.&lt;br&gt;&lt;a href=&quot;https://www.hamal4kids.online/post/דינוזאורים-טירנוזאורוס-רקס&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Full episode and more&lt;/a&gt;&lt;br&gt;Want to support us?https://payboxapp.page.link/KzAVcfYv9A3RQs8w5 ☕&lt;br&gt;Note: This episode was created using AI and may contain pronunciation errors. We recommend co-listening with your child.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:08:25</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43644646/43644646-1748068764861-a4da75e5d98d5.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Velociraptor: Smart, Small, and Dangerous]]></title>
+			<description><![CDATA[<p><strong>Velociraptor: Smart, Small, and Dangerous</strong><br>Fast, clever, sharp — and about the size of a chicken.<br>So why do we remember it as a movie monster?<br>And what really made it so dangerous?</p><p>Come meet the dino you really wouldn’t want to meet alone in the forest…</p><p>This podcast is part of <em>Hamal for Kids</em> — a free, community-powered content project for curious Israeli children.<br><a href="https://www.hamal4kids.online/post/%D7%93%D7%99%D7%A0%D7%95%D7%96%D7%90%D7%95%D7%A8%D7%99%D7%9D-%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%A8%D7%A4%D7%98%D7%95%D7%A8" target="_blank" rel="noopener noreferer">Full episode and more</a><br>Want to support us? <a href="https://payboxapp.page.link/KzAVcfYv9A3RQs8w5" target="_blank" rel="noopener noreferer nofollow">Buy us a coffee</a> ☕<br>Note: This episode was created using AI and may contain pronunciation errors. We recommend co-listening with your child.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hamal4kids4/episodes/Velociraptor-Smart--Small--and-Dangerous-e334ari</link>
+			<guid isPermaLink="false">e7f11d22-48a2-4ab9-ad90-466cda4771dd</guid>
+			<dc:creator><![CDATA[Hamal4kids]]></dc:creator>
+			<pubDate>Fri, 23 May 2025 08:56:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/104bd0858/podcast/play/102951218/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-20%2Fb0c84a66-e078-25c4-5043-71e905b66737.mp3" length="7653668" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Velociraptor: Smart, Small, and Dangerous&lt;/strong&gt;&lt;br&gt;Fast, clever, sharp — and about the size of a chicken.&lt;br&gt;So why do we remember it as a movie monster?&lt;br&gt;And what really made it so dangerous?&lt;/p&gt;&lt;p&gt;Come meet the dino you really wouldn’t want to meet alone in the forest…&lt;/p&gt;&lt;p&gt;This podcast is part of &lt;em&gt;Hamal for Kids&lt;/em&gt; — a free, community-powered content project for curious Israeli children.&lt;br&gt;&lt;a href=&quot;https://www.hamal4kids.online/post/%D7%93%D7%99%D7%A0%D7%95%D7%96%D7%90%D7%95%D7%A8%D7%99%D7%9D-%D7%95%D7%9C%D7%95%D7%A6%D7%99%D7%A8%D7%A4%D7%98%D7%95%D7%A8&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Full episode and more&lt;/a&gt;&lt;br&gt;Want to support us? &lt;a href=&quot;https://payboxapp.page.link/KzAVcfYv9A3RQs8w5&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer nofollow&quot;&gt;Buy us a coffee&lt;/a&gt; ☕&lt;br&gt;Note: This episode was created using AI and may contain pronunciation errors. We recommend co-listening with your child.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:07:58</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43644646/43644646-1747774601372-aab4ea694e6b7.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>8</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Triceratops: A Rhino with a Frill]]></title>
+			<description><![CDATA[<p></p><p>Three horns, a giant frill, and the body of a prehistoric rhino — the Triceratops looked scary, but it was a plant-eater!<br>So how did it survive near T. rexes? And why did it need all those horns?</p><p>Press play for a surprising new episode in the <em>Wait, What?</em> dinosaur series.</p><p>This podcast is part of <em>Hamal for Kids</em> — a free, community-powered content project for curious Israeli children.<br><a href="https://www.hamal4kids.online/post/%D7%93%D7%99%D7%A0%D7%95%D7%96%D7%90%D7%95%D7%A8%D7%99%D7%9D-%D7%98%D7%A8%D7%99%D7%A6%D7%A8%D7%98%D7%95%D7%A4%D7%A1" target="_blank" rel="noopener noreferer">Full episode and more</a><br>Want to support us? <a href="https://payboxapp.page.link/KzAVcfYv9A3RQs8w5" target="_blank" rel="noopener noreferer nofollow">Buy us a coffee</a> ☕<br>Note: This podcast was generated with AI, so some pronunciations might be off. We recommend co-listening with your child.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hamal4kids4/episodes/Triceratops-A-Rhino-with-a-Frill-e334ahc</link>
+			<guid isPermaLink="false">43890872-00a1-482c-ae91-d48a3f4827ca</guid>
+			<dc:creator><![CDATA[Hamal4kids]]></dc:creator>
+			<pubDate>Thu, 22 May 2025 08:48:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/104bd0858/podcast/play/102950892/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-20%2F400670984-44100-2-a22d8ee018687.m4a" length="7877022" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;&lt;/p&gt;&lt;p&gt;Three horns, a giant frill, and the body of a prehistoric rhino — the Triceratops looked scary, but it was a plant-eater!&lt;br&gt;So how did it survive near T. rexes? And why did it need all those horns?&lt;/p&gt;&lt;p&gt;Press play for a surprising new episode in the &lt;em&gt;Wait, What?&lt;/em&gt; dinosaur series.&lt;/p&gt;&lt;p&gt;This podcast is part of &lt;em&gt;Hamal for Kids&lt;/em&gt; — a free, community-powered content project for curious Israeli children.&lt;br&gt;&lt;a href=&quot;https://www.hamal4kids.online/post/%D7%93%D7%99%D7%A0%D7%95%D7%96%D7%90%D7%95%D7%A8%D7%99%D7%9D-%D7%98%D7%A8%D7%99%D7%A6%D7%A8%D7%98%D7%95%D7%A4%D7%A1&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Full episode and more&lt;/a&gt;&lt;br&gt;Want to support us? &lt;a href=&quot;https://payboxapp.page.link/KzAVcfYv9A3RQs8w5&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer nofollow&quot;&gt;Buy us a coffee&lt;/a&gt; ☕&lt;br&gt;Note: This podcast was generated with AI, so some pronunciations might be off. We recommend co-listening with your child.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:08:06</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43644646/43644646-1747774037584-8178409c6cf95.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Spinosaurus: A Fish? A Crocodile? A Dinosaur!]]></title>
+			<description><![CDATA[<p></p><p>It hunted fish, loved the water, sometimes walked on all fours — and was one of the weirdest dinos ever.<br />With a sail on its back, a tail for swimming, and extra-sharp teeth... what <em>was</em> it really?</p><p>Was it a fish? A crocodile? Or just a very strange dinosaur? Listen and find out!</p><p>This podcast is part of <em>Hamal for Kids</em> — a free, community-powered content project for curious Israeli children.<br />Full episode and more<br />Want to support us?<a href="https://payboxapp.page.link/KzAVcfYv9A3RQs8w5" target="_blank" rel="ugc noopener noreferrer"> Buy us a coffee</a> ☕<br />Note: This podcast was generated with AI, so some pronunciations might be off. We recommend co-listening with your child.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hamal4kids4/episodes/Spinosaurus-A-Fish--A-Crocodile--A-Dinosaur-e3349c9</link>
+			<guid isPermaLink="false">8fa5931b-52af-40a2-af5d-7004daaf449b</guid>
+			<dc:creator><![CDATA[Hamal4kids]]></dc:creator>
+			<pubDate>Wed, 21 May 2025 08:20:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/104bd0858/podcast/play/102949705/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-20%2F400669693-44100-2-99861bdd12478.m4a" length="6786861" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;&lt;/p&gt;&lt;p&gt;It hunted fish, loved the water, sometimes walked on all fours — and was one of the weirdest dinos ever.&lt;br /&gt;With a sail on its back, a tail for swimming, and extra-sharp teeth... what &lt;em&gt;was&lt;/em&gt; it really?&lt;/p&gt;&lt;p&gt;Was it a fish? A crocodile? Or just a very strange dinosaur? Listen and find out!&lt;/p&gt;&lt;p&gt;This podcast is part of &lt;em&gt;Hamal for Kids&lt;/em&gt; — a free, community-powered content project for curious Israeli children.&lt;br /&gt;Full episode and more&lt;br /&gt;Want to support us?&lt;a href=&quot;https://payboxapp.page.link/KzAVcfYv9A3RQs8w5&quot; target=&quot;_blank&quot; rel=&quot;ugc noopener noreferrer&quot;&gt; Buy us a coffee&lt;/a&gt; ☕&lt;br /&gt;Note: This podcast was generated with AI, so some pronunciations might be off. We recommend co-listening with your child.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:06:59</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43644646/43644646-1747772263588-785f8d95434ec.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Stegosaurus: Walking Wall of Armor]]></title>
+			<description><![CDATA[<p></p><p>With big plates on its back and spikes on its tail, the Stegosaurus looked like a mix between a dinosaur and a fence!<br>But why did it have all those decorations? And how did it defend itself?</p><p>Listen to a new episode of <em>Wait, What?</em> and discover the secrets of one of the weirdest dinos in history.</p><p>This podcast is part of <em>Hamal for Kids</em> — a free, community-powered content project for curious Israeli children.<br><a href="https://www.hamal4kids.online/post/%D7%93%D7%99%D7%A0%D7%95%D7%96%D7%90%D7%95%D7%A8%D7%99%D7%9D-%D7%A1%D7%98%D7%92%D7%95%D7%96%D7%90%D7%95%D7%A8%D7%95%D7%A1" target="_blank" rel="noopener noreferer">Full episode and more (Hebrew)</a><br>Want to support us? <a href="https://payboxapp.page.link/KzAVcfYv9A3RQs8w5" target="_blank" rel="noopener noreferer nofollow">Buy us a coffee</a> ☕<br>Note: This podcast was generated with AI, so some pronunciations might be off. We recommend co-listening with your child.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hamal4kids4/episodes/Stegosaurus-Walking-Wall-of-Armor-e334670</link>
+			<guid isPermaLink="false">0496d69e-0b07-4c6b-b3ea-c47de68d67ed</guid>
+			<dc:creator><![CDATA[Hamal4kids]]></dc:creator>
+			<pubDate>Tue, 20 May 2025 19:43:26 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/104bd0858/podcast/play/102946464/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-20%2F400665777-44100-2-7b1c21ee37cfd.m4a" length="8044539" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;&lt;/p&gt;&lt;p&gt;With big plates on its back and spikes on its tail, the Stegosaurus looked like a mix between a dinosaur and a fence!&lt;br&gt;But why did it have all those decorations? And how did it defend itself?&lt;/p&gt;&lt;p&gt;Listen to a new episode of &lt;em&gt;Wait, What?&lt;/em&gt; and discover the secrets of one of the weirdest dinos in history.&lt;/p&gt;&lt;p&gt;This podcast is part of &lt;em&gt;Hamal for Kids&lt;/em&gt; — a free, community-powered content project for curious Israeli children.&lt;br&gt;&lt;a href=&quot;https://www.hamal4kids.online/post/%D7%93%D7%99%D7%A0%D7%95%D7%96%D7%90%D7%95%D7%A8%D7%99%D7%9D-%D7%A1%D7%98%D7%92%D7%95%D7%96%D7%90%D7%95%D7%A8%D7%95%D7%A1&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Full episode and more (Hebrew)&lt;/a&gt;&lt;br&gt;Want to support us? &lt;a href=&quot;https://payboxapp.page.link/KzAVcfYv9A3RQs8w5&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer nofollow&quot;&gt;Buy us a coffee&lt;/a&gt; ☕&lt;br&gt;Note: This podcast was generated with AI, so some pronunciations might be off. We recommend co-listening with your child.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:08:17</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43644646/43644646-1747769629787-d34206608e918.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Ankylosaurus: A Dinosaur Tank]]></title>
+			<description><![CDATA[<p></p><p><strong>Ankylosaurus: Armor on Legs</strong><br>Who tried to attack it? Why did it have a tail like a hammer? And how did it survive in a world full of T. rexes?</p><p>In this episode of <em>Wait, What?</em> we meet one of the best-protected dinosaurs of all time.<br>Press play and discover what it was like to be a walking tank in the age of dinosaurs!</p><p>This podcast is part of <em>Hamal for Kids</em> — a free, community-powered content project for curious Israeli children.<br><a href="https://www.hamal4kids.online/post/דינוזאורים-אנקילוזאורוס" target="_blank" rel="noopener noreferer">Full episode (in Hebrew) and surprises</a><br>Want to support us?https://payboxapp.page.link/KzAVcfYv9A3RQs8w5 ☕<br>Note: This podcast was generated with AI, so some pronunciations might be off. We recommend co-listening with your child.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hamal4kids4/episodes/Ankylosaurus-A-Dinosaur-Tank-e32rp9e</link>
+			<guid isPermaLink="false">389c7044-4b3b-49fa-bed8-0a23b133f0ea</guid>
+			<dc:creator><![CDATA[Hamal4kids]]></dc:creator>
+			<pubDate>Wed, 14 May 2025 20:23:10 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/104bd0858/podcast/play/102671086/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-14%2F400293882-44100-2-bbcbfcc728d46.m4a" length="10042274" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ankylosaurus: Armor on Legs&lt;/strong&gt;&lt;br&gt;Who tried to attack it? Why did it have a tail like a hammer? And how did it survive in a world full of T. rexes?&lt;/p&gt;&lt;p&gt;In this episode of &lt;em&gt;Wait, What?&lt;/em&gt; we meet one of the best-protected dinosaurs of all time.&lt;br&gt;Press play and discover what it was like to be a walking tank in the age of dinosaurs!&lt;/p&gt;&lt;p&gt;This podcast is part of &lt;em&gt;Hamal for Kids&lt;/em&gt; — a free, community-powered content project for curious Israeli children.&lt;br&gt;&lt;a href=&quot;https://www.hamal4kids.online/post/דינוזאורים-אנקילוזאורוס&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Full episode (in Hebrew) and surprises&lt;/a&gt;&lt;br&gt;Want to support us?https://payboxapp.page.link/KzAVcfYv9A3RQs8w5 ☕&lt;br&gt;Note: This podcast was generated with AI, so some pronunciations might be off. We recommend co-listening with your child.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:10:20</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43644646/43644646-1747254019511-456b7b8b80bfd.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Brachiosaurus: What’s Up With That Neck?]]></title>
+			<description><![CDATA[<p></p><p>How do you reach the highest leaves? Just ask the Brachiosaurus — a giant dinosaur with a loooong neck that stretched toward the sky.<br>Find out why it was so tall, what it ate, and how it managed to live that way.</p><p>This podcast is part of <em>Hamal for Kids</em> — a free, community-powered project bringing curious and fun content to children in Israel.<br><a href="https://www.hamal4kids.online/post/דינוזאורים-ברכיוזאורוס" target="_blank" rel="noopener noreferer">Full episode and more surprises</a><br>Want to support us? https://payboxapp.page.link/KzAVcfYv9A3RQs8w5 ☕<br>Note: This episode was created using AI tools and may contain pronunciation errors. We recommend co-listening and helping your child with correct pronunciation.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hamal4kids4/episodes/Brachiosaurus-Whats-Up-With-That-Neck-e32ptq7</link>
+			<guid isPermaLink="false">ce9ebff9-2d12-4bda-bfc3-0d34c27d9018</guid>
+			<dc:creator><![CDATA[Hamal4kids]]></dc:creator>
+			<pubDate>Tue, 13 May 2025 18:43:45 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/104bd0858/podcast/play/102610183/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-13%2F400191355-44100-2-3ffeab9805a8e.m4a" length="6217183" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;&lt;/p&gt;&lt;p&gt;How do you reach the highest leaves? Just ask the Brachiosaurus — a giant dinosaur with a loooong neck that stretched toward the sky.&lt;br&gt;Find out why it was so tall, what it ate, and how it managed to live that way.&lt;/p&gt;&lt;p&gt;This podcast is part of &lt;em&gt;Hamal for Kids&lt;/em&gt; — a free, community-powered project bringing curious and fun content to children in Israel.&lt;br&gt;&lt;a href=&quot;https://www.hamal4kids.online/post/דינוזאורים-ברכיוזאורוס&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Full episode and more surprises&lt;/a&gt;&lt;br&gt;Want to support us? https://payboxapp.page.link/KzAVcfYv9A3RQs8w5 ☕&lt;br&gt;Note: This episode was created using AI tools and may contain pronunciation errors. We recommend co-listening and helping your child with correct pronunciation.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:06:24</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43644646/43644646-1747161442048-44ce3f7780f21.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[The Diplodocus: The Longest Dinosaur That Ever Lived]]></title>
+			<description><![CDATA[<p><strong>Meet the Diplodocus — the longest dinosaur ever!</strong><br>How did it really look? Why did it have such a long neck? And what’s the deal with that giant tail?<br>Press play and travel back in time with us!</p><p><a href="https://www.hamal4kids.online/post/דינוזאורים-דיפלודוקוס" target="_blank" rel="noopener noreferer">Full episode post (in Hebrew)</a></p><p>This episode is part of the dinosaur series from <em>“Wait, what?”</em>, a podcast by <em>Hamal for Kids</em> — a free community project bringing curious and funny content to Israeli children.<br>Want to support us? ☕ <a href="https://www.hamal4kids.online/post/דינוזאורים-דיפלודוקוס⁠" target="_blank" rel="noopener noreferer nofollow">Buy us a coffee!</a><br>Note: This podcast was created using AI, so some pronunciations may not be perfect. We recommend co-listening and guiding kids toward correct pronunciation.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hamal4kids4/episodes/The-Diplodocus-The-Longest-Dinosaur-That-Ever-Lived-e32odse</link>
+			<guid isPermaLink="false">4378a6d5-9549-43fd-b24d-5fe21e122be4</guid>
+			<dc:creator><![CDATA[Hamal4kids]]></dc:creator>
+			<pubDate>Mon, 12 May 2025 20:20:57 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/104bd0858/podcast/play/102561102/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-12%2F400117218-44100-2-cf909eb684e5e.m4a" length="6217183" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Meet the Diplodocus — the longest dinosaur ever!&lt;/strong&gt;&lt;br&gt;How did it really look? Why did it have such a long neck? And what’s the deal with that giant tail?&lt;br&gt;Press play and travel back in time with us!&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.hamal4kids.online/post/דינוזאורים-דיפלודוקוס&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;Full episode post (in Hebrew)&lt;/a&gt;&lt;/p&gt;&lt;p&gt;This episode is part of the dinosaur series from &lt;em&gt;“Wait, what?”&lt;/em&gt;, a podcast by &lt;em&gt;Hamal for Kids&lt;/em&gt; — a free community project bringing curious and funny content to Israeli children.&lt;br&gt;Want to support us? ☕ &lt;a href=&quot;https://www.hamal4kids.online/post/דינוזאורים-דיפלודוקוס⁠&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer nofollow&quot;&gt;Buy us a coffee!&lt;/a&gt;&lt;br&gt;Note: This podcast was created using AI, so some pronunciations may not be perfect. We recommend co-listening and guiding kids toward correct pronunciation.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:06:24</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43644646/43644646-1747081100176-8c8beb9bd6d9f.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Meet the Dinosaures]]></title>
+			<description><![CDATA[<p>Welcome to the first episode in our dinosaur series on <em>“Wait, What?”</em><br>What did dinosaurs really look like? Why did some have feathers? And how do we even know about them?<br>This is just the beginning of an amazing prehistoric adventure!</p><p>This podcast is part of <strong>HAMAL 4 Kids</strong> — a community project that brings curious, funny, and free content to kids in Israel<strong>.</strong><br>The full post with more cool facts and surprises is waiting for you at hamal4kids.online.</p><p>🎧 Press play and join the adventure!<br>☕ Want to help us? Buy us a coffee: <a href="https://www.hamal4kids.online/" target="_blank" rel="noopener noreferer">hamal4kids.online</a></p><p>Please note: this podcast was made with AI, so there may be small mistakes in pronunciation.<br>We recommend listening together and helping your child with correct pronunciation if needed.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/hamal4kids4/episodes/Meet-the-Dinosaures-e32mnvb</link>
+			<guid isPermaLink="false">b1d5eefc-8d61-4304-85b6-0258e7985b8e</guid>
+			<dc:creator><![CDATA[Hamal4kids]]></dc:creator>
+			<pubDate>Sun, 11 May 2025 19:02:43 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/104bd0858/podcast/play/102505899/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-11%2F400043074-44100-2-b516496392654.m4a" length="10242777" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Welcome to the first episode in our dinosaur series on &lt;em&gt;“Wait, What?”&lt;/em&gt;&lt;br&gt;What did dinosaurs really look like? Why did some have feathers? And how do we even know about them?&lt;br&gt;This is just the beginning of an amazing prehistoric adventure!&lt;/p&gt;&lt;p&gt;This podcast is part of &lt;strong&gt;HAMAL 4 Kids&lt;/strong&gt; — a community project that brings curious, funny, and free content to kids in Israel&lt;strong&gt;.&lt;/strong&gt;&lt;br&gt;The full post with more cool facts and surprises is waiting for you at hamal4kids.online.&lt;/p&gt;&lt;p&gt;🎧 Press play and join the adventure!&lt;br&gt;☕ Want to help us? Buy us a coffee: &lt;a href=&quot;https://www.hamal4kids.online/&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;hamal4kids.online&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Please note: this podcast was made with AI, so there may be small mistakes in pronunciation.&lt;br&gt;We recommend listening together and helping your child with correct pronunciation if needed.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:10:33</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43644646/43644646-1746989936365-cb6d1f68ad6f2.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
