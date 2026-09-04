@@ -292,5 +292,18 @@ hamal4kids.online
 			<itunes:episode>1</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
-	</channel>
+	
+  <item>
+    <title>מגלי ארצות פרדיננד מגלן האיש שהוכיח שכדור הארץ עגול</title>
+    <description><![CDATA[בואו לצאת למסע הרפתקאות עם פרדיננד מגלן, החוקר האמיץ שהוכיח שכדור הארץ עגול. תגלו עולמות חדשים ותהיו חלק מהרפתקה המרתקת קרא עוד: https://www.hamal4kids.online/post/מגלי-ארצות-פרדיננד-מגלן-האיש-שהוכיח-שכדור-הארץ-עגול
+
+אהבתם? <a href="https://payboxapp.page.link/KzAVcfYv9A3RQs8w5">קנו לנו קפה☕</a>
+הפודקאסט נוצר בעזרת בינה מלאכותית, ועשוי לכלול טעויות בהגייה. מומלץ להאזין יחד עם הילדים.]]></description>
+    <enclosure url="https://drive.google.com/uc?export=download&id=1_JuBWGljlR2yrRw5ih1GFRVe1Jm_nNc5" type="audio/mpeg" length="0"/>
+    <pubDate>Fri, 04 Sep 2026 14:24:29 GMT</pubDate>
+    <guid isPermaLink="false">https://www.hamal4kids.online/post/מגלי-ארצות-פרדיננד-מגלן-האיש-שהוכיח-שכדור-הארץ-עגול</guid>
+    <link>https://www.hamal4kids.online/post/מגלי-ארצות-פרדיננד-מגלן-האיש-שהוכיח-שכדור-הארץ-עגול</link>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
 </rss>
