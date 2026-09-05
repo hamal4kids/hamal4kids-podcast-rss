@@ -278,5 +278,18 @@ Note: This podcast is generated using AI, so some pronunciation m</itunes:summar
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/43644646/43644646-1746989936365-cb6d1f68ad6f2.jpg"/>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
+
+  <item>
+    <title>Ferdinand's Big Discovery</title>
+    <description><![CDATA[Get ready for an epic adventure with Ferdinand Magellan, the brave explorer who proved the Earth is round. Discover new worlds and be part of the thrilling journey (post in Hebrew) https://www.hamal4kids.online/post/מגלי-ארצות-פרדיננד-מגלן-האיש-שהוכיח-שכדור-הארץ-עגול
+
+Enjoyed it? <a href="https://payboxapp.page.link/KzAVcfYv9A3RQs8w5">Buy us a coffee☕</a>
+This podcast was created with the help of AI and may include pronunciation errors. We recommend listening together with your children.]]></description>
+    <enclosure url="https://github.com/hamal4kids/hamal4kids-podcast-rss/releases/download/podcast-audio/recuXdV9KRyjmiOD0.wav" type="audio/wav" length="40871084"/>
+    <pubDate>Sat, 05 Sep 2026 05:58:17 GMT</pubDate>
+    <guid isPermaLink="false">https://www.hamal4kids.online/post/מגלי-ארצות-פרדיננד-מגלן-האיש-שהוכיח-שכדור-הארץ-עגול</guid>
+    <link>https://www.hamal4kids.online/post/מגלי-ארצות-פרדיננד-מגלן-האיש-שהוכיח-שכדור-הארץ-עגול</link>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
