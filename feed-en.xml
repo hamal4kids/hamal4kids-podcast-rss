@@ -404,6 +404,21 @@ This podcast was created with the help of AI and may include pronunciation error
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://static.wixstatic.com/media/d710d2_977d8330217849f0bc338f1287d4e267~mv2.png"/>
   </item>
+
+  <item>
+    <title>Halloween: A Celebration of Costumes and Cultures</title>
+    <description><![CDATA[Halloween special: where the holiday came from, how it is celebrated today, and how it is similar to (and different from) Purim. (post in Hebrew) https://www.hamal4kids.online/post/האלווין-חגיגה-של-תחפושות-ותרבויות-jbe
+
+Enjoyed it? <a href="https://payboxapp.page.link/KzAVcfYv9A3RQs8w5">Buy us a coffee☕</a>
+This podcast was created with the help of AI and may include pronunciation errors. We recommend listening together with your children.]]></description>
+    <enclosure url="https://github.com/hamal4kids/hamal4kids-podcast-rss/releases/download/podcast-audio/halloween-special-en.m4a" type="audio/x-m4a" length="19820172"/>
+    <pubDate>Sat, 31 Oct 2026 05:20:00 GMT</pubDate>
+    <guid isPermaLink="false">https://www.hamal4kids.online/post/האלווין-חגיגה-של-תחפושות-ותרבויות-jbe</guid>
+    <link>https://www.hamal4kids.online/post/האלווין-חגיגה-של-תחפושות-ותרבויות-jbe</link>
+    <itunes:duration>00:10:16</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://static.wixstatic.com/media/d710d2_7563baa88a154b94afaa97cd546f4232~mv2.png"/>
+  </item>
 </channel>
 </rss>
 
