@@ -408,6 +408,21 @@ hamal4kids.online
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://static.wixstatic.com/media/d710d2_7563baa88a154b94afaa97cd546f4232~mv2.png"/>
   </item>
+
+  <item>
+    <title>צונאמי - כשהים יוצא מגדרו</title>
+    <description><![CDATA[מה זה בעצם צונאמי, איך הוא נוצר ולמה הים נסוג רגע לפני שהוא מגיע? נכיר את המגה-צונאמי, את הגל הגבוה ביותר שתועד אי פעם, את מערכות ההתרעה ומה עושים אם זה קורה כשאתם על החוף. קרא עוד: https://www.hamal4kids.online/post/צונאמי-כשהים-יוצא-מגדרו
+
+אהבתם? <a href="https://payboxapp.page.link/KzAVcfYv9A3RQs8w5">קנו לנו קפה☕</a>
+הפודקאסט נוצר בעזרת בינה מלאכותית, ועשוי לכלול טעויות בהגייה. מומלץ להאזין יחד עם הילדים.]]></description>
+    <enclosure url="https://github.com/hamal4kids/hamal4kids-podcast-rss/releases/download/podcast-audio/tsunami-he.m4a" type="audio/x-m4a" length="20465845"/>
+    <pubDate>Tue, 03 Nov 2026 10:19:39 GMT</pubDate>
+    <guid isPermaLink="false">https://www.hamal4kids.online/post/צונאמי-כשהים-יוצא-מגדרו</guid>
+    <link>https://www.hamal4kids.online/post/צונאמי-כשהים-יוצא-מגדרו</link>
+    <itunes:duration>00:10:36</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://static.wixstatic.com/media/d710d2_a296302030d44a198c9c19fda30a62ee~mv2.png"/>
+  </item>
 </channel>
 </rss>
 

@@ -419,6 +419,21 @@ This podcast was created with the help of AI and may include pronunciation error
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://static.wixstatic.com/media/d710d2_7563baa88a154b94afaa97cd546f4232~mv2.png"/>
   </item>
+
+  <item>
+    <title>Tsunami: When the Sea Breaks Loose</title>
+    <description><![CDATA[What is a tsunami, how does it form, and why does the sea pull back right before it arrives? Meet the mega-tsunami, the tallest wave ever recorded, the warning systems that protect us, and what to do if it happens while you are at the beach. (post in Hebrew) https://www.hamal4kids.online/post/צונאמי-כשהים-יוצא-מגדרו
+
+Enjoyed it? <a href="https://payboxapp.page.link/KzAVcfYv9A3RQs8w5">Buy us a coffee☕</a>
+This podcast was created with the help of AI and may include pronunciation errors. We recommend listening together with your children.]]></description>
+    <enclosure url="https://github.com/hamal4kids/hamal4kids-podcast-rss/releases/download/podcast-audio/tsunami-en.m4a" type="audio/x-m4a" length="28595778"/>
+    <pubDate>Tue, 03 Nov 2026 10:19:39 GMT</pubDate>
+    <guid isPermaLink="false">https://www.hamal4kids.online/post/צונאמי-כשהים-יוצא-מגדרו</guid>
+    <link>https://www.hamal4kids.online/post/צונאמי-כשהים-יוצא-מגדרו</link>
+    <itunes:duration>00:14:48</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://static.wixstatic.com/media/d710d2_a296302030d44a198c9c19fda30a62ee~mv2.png"/>
+  </item>
 </channel>
 </rss>
 
